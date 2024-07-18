@@ -1,0 +1,37 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(30, 97, 107);
+    color: white;
+    padding: 10px 20px;
+    margin-left: 22%;
+  }
+  
+  .navbar-left h1 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .navbar-left p {
+    margin: 0;
+    font-size: 1em;
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.2em;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .btn{
+    margin-left: 3em;
+ }
+  
